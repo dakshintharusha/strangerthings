@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" score="254" last-seen="1601357384"/>
+    <application id="org.gnome.Nautilus.desktop" score="17" last-seen="1601357186"/>
+    <application id="org.gnome.Terminal.desktop" score="33" last-seen="1601357377"/>
+  </context>
+</application-state>
