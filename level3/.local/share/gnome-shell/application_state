@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" score="373" last-seen="1596169826"/>
+    <application id="org.gnome.Nautilus.desktop" score="197" last-seen="1596171313"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1596087959"/>
+    <application id="org.gnome.Terminal.desktop" score="921" last-seen="1596171386"/>
+    <application id="org.gnome.gedit.desktop" score="69" last-seen="1596171308"/>
+  </context>
+</application-state>
